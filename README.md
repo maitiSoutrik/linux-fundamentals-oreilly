@@ -11,11 +11,13 @@ Digital Ocean Linux server
 
 It is advisable not to work from root.
 So create a new user using the following command :
+
 `sudo adduser userNameHere`
 
 Enter the details as per the prompt
 
 change to the new user using the following :
+
 `su -l new_user_name`
 
 
