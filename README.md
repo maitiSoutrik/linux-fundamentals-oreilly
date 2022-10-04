@@ -20,6 +20,16 @@ change to the new user using the following :
 
 `su -l new_user_name`
 
+login name
+
+`whoami`
+
+touch is used to verify writability
+
+Systems Programming Manual
+
+`man`
+
 
 ### Module 2 : User and Group Management & Permissions
 
